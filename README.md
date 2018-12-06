@@ -1,7 +1,7 @@
 # Weapp-qrcode-generater
 微信小程序自定义path入口页面生成二维码
 
-![](https://github.com/imNajeh/Weapp-qrcode-generater/blob/master/README.md)
+![](https://github.com/imNajeh/Weapp-qrcode-generater/blob/master/weapp-code-generater.PNG)
 
 ## 使用方法
 
