@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>微信小程序二维码生成器</title>
+    <script src="https://cdn.bootcss.com/jquery/1.9.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <h1>微信小程序二维码生成器</h1>
+    <h3>Writed By Jinghao --- 2018-12-6 0:41</h3>
+    <form id="generate" method ="post"  action="code">  
+        <p>appid：<input id="appid" name="appid" type="text" /></p> 
+        <p>secret：<input id="secret" name="secret" type="text" /></p>
+        <p>path（例：pages/home/home）：<input id="path" name="path" type="text" /></p>
+        <p><input id="submit" type="submit" value="生成二维码" /></p> 
+    </form>
+  </body>
+</html>
